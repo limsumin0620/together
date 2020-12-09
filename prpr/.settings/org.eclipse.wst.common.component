@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="sese">
+    <wb-module deploy-name="prpr">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="sese"/>
-        <property name="java-output-path" value="/sese/build/classes"/>
+        <property name="context-root" value="prpr"/>
+        <property name="java-output-path" value="/prpr/build/classes"/>
     </wb-module>
 </project-modules>
